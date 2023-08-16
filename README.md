@@ -31,4 +31,4 @@ Give credit here.
 - This project is a case study for UpGrad.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Manikanth749] - feel free to contact me!
